@@ -183,21 +183,14 @@
       </form>
       <span id="comment_message"></span>
       <br />
+
     
+
+
+            <div id="display_comment"></div>
+
+
   
-      <div class="all-comments" id="pagination">
-
-            <div type="hidden" name="rowcount" id="display_comment"></div>
-       
-
-      </div>
-
-	
-
-</div>
-
-   
-      
 </section>
 
 
@@ -1785,3 +1778,4 @@ document.querySelector("#removeStorage").addEventListener('click', function() {
 
   </body>
 </html>
+
